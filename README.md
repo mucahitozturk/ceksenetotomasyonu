@@ -1,5 +1,6 @@
-# ceksenetotomasyonu
-Sakarya Üniversitesi Nesneye Dayalı Programlama dersi için geliştirilmiş profesyonel bir masaüstü mobil uygulamadır.
+# Cari Hesap - Çek Senet Otomasyon Projesi
+
+> Şirketlerin kullanımı için geliştirilmiş Cari Hesap/Kayıt Uygulamasıdır. Kullanıcı dostu olması amacıyla görselliğe önem gösterilmiştir. Bununla alakalı olarak tasarımda DevExpress kullanılmıştır.
 
 ## Ana Sayfa
 ![image](https://user-images.githubusercontent.com/32402864/112525098-985ea780-8db1-11eb-8fe2-ff7a9aaf086e.png)
