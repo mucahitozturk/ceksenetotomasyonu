@@ -1,6 +1,6 @@
 # Cari Hesap - Çek Senet Otomasyon Projesi
 
-> Şirketlerin kullanımı için geliştirilmiş Cari Hesap/Kayıt Uygulamasıdır. Kullanıcı dostu olması amacıyla görselliğe önem gösterilmiştir. Bununla alakalı olarak tasarımda DevExpress kullanılmıştır. Microsoft Visual Studio 2019 ortamında C# kullanarak DevExpress tool'u ile geliştirilmiştir. Bu projeyi klonlama aşamasında hata almamanız için bunlara sahip olduğunuzdan emin olmanızda fayda var.
+> Şirketlerin kullanımı için geliştirilmiş Cari Hesap/Kayıt Uygulamasıdır. Kullanıcı dostu olması amacıyla görselliğe önem gösterilmiştir. Bununla alakalı olarak tasarımda DevExpress kullanılmıştır. Microsoft Visual Studio 2019 ortamında C# kullanarak DevExpress tool'u ile geliştirilmiştir. Ayrıca Entity Framework ve SQL Server 2014 SSMS kullanılmıştır. Bu projeyi klonlama aşamasında hata almamanız için bunlara sahip olduğunuzdan emin olmanızda fayda var.
 
 ## Ana Ekran Görüntüsü
 
